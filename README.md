@@ -1,3 +1,4 @@
+El usuario tendrá que poner su mensaje secret en las variables de entorno.
 # Fresh project
 
 Your new Fresh project is ready to go. You can follow the Fresh "Getting
